@@ -1,6 +1,6 @@
 # Grammatical Error Detection (GED)
 
-Grammatical Error Detection (GED) is a crucial task in Natural Language Processing (NLP) that focuses on identifying grammatical mistakes in text. GED is especially beneficial for Grammatical Error Correction (GEC) systems and helps second-language learners improve their writing skills. This repository contains the code, datasets, and models I developed for GED experiments.
+Grammatical Error Detection (GED) is a crucial task in Natural Language Processing (NLP) that focuses on identifying grammatical mistakes in text. GED is especially beneficial for Grammatical Error Correction (GEC) systems and helps second-language learners improve their writing skills. This repository contains the code, datasets, and models developed for GED experiments.
 
 ## Features
 - Fine-tuned Transformer-based models (BERT, RoBERTa) for GED.
