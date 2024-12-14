@@ -24,11 +24,11 @@ Grammatical Error Detection (GED) is a crucial task in Natural Language Processi
 
 ### Models
 - Fine-tuned Transformer-based models hosted on Hugging Face:
-  - BERT (base): [Model on Hugging Face](https://huggingface.co/rahuln2002/bert-base-uncased-20k-GED)
-  - BERT (base): [Model on Hugging Face](https://huggingface.co/rahuln2002/bert-base-uncased-180k-GED)
-  - BERT (large): [Model on Hugging Face](https://huggingface.co/rahuln2002/bert-large-uncased-20k-GED)
-  - RoBERTa (base): [Model on Hugging Face](https://huggingface.co/rahuln2002/roberta-base-20k-GED)
-  - RoBERTa (large): [Model on Hugging Face](https://huggingface.co/rahuln2002/roberta-large-20k-GED)
+  - **BERT-base (trained on 20k samples)**: [Model on Hugging Face](https://huggingface.co/rahuln2002/bert-base-uncased-20k-GED)
+  - **BERT-base (trained on 180k samples)**: [Model on Hugging Face](https://huggingface.co/rahuln2002/bert-base-uncased-180k-GED)
+  - **BERT-large (trained on 20k samples)**: [Model on Hugging Face](https://huggingface.co/rahuln2002/bert-large-uncased-20k-GED)
+  - **RoBERTa-base (trained on 20k samples)**: [Model on Hugging Face](https://huggingface.co/rahuln2002/roberta-base-20k-GED)
+  - **RoBERTa-large (trained on 20k samples)**: [Model on Hugging Face](https://huggingface.co/rahuln2002/roberta-large-20k-GED)
 
 ### Acknowledgments
 I would like to express my heartfelt gratitude to my mentor, **[Kushal Shah](https://www.linkedin.com/in/kushal-shah-95b9a3b/)**, under whom I had the privilege to intern. His invaluable guidance, encouragement, and expertise throughout this project played a significant role in its successful completion. I am deeply thankful for the opportunities and learning experiences he provided.
